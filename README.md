@@ -9,6 +9,7 @@ Welcome to my personal coding portfolio! This repository is a curated collection
 | Project Name | Technology Stack | Difficulty |
 | :--- | :--- | :--- |
 | [⏱️ Timer](./timer) | Python | 🟢 Easy |
+| [🔑 Password Generator](./password-generator) | Python | 🟢 Easy |
 | 🛠️ More coming soon! | -- | -- |
 
 ---
