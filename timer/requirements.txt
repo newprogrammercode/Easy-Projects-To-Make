@@ -1,9 +1,4 @@
 1.Python package
 2.Pygame installed
 
-How to install Python:
-    1.Go to python's official website(URL:https://www.python.org/)
-    2.Download the newest version
-How to install Pygame:
-    1.Open powershell
-    2.Type "pip install pygame-ce"
+
