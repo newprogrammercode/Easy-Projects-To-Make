@@ -8,4 +8,3 @@ def generate_password(length):
     for i in range(length):
         rs += random.choice(chars)
     return rs
-print(generate_password(12))
